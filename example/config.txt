@@ -1,0 +1,2 @@
+Prefix plugins/MATR/example/
+Plugin MATR inputfile parameters.txt outputfile .

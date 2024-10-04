@@ -1,0 +1,7 @@
+geneexp	GeneExpExample5000.txt
+val1	values1.txt
+val2	values2.txt
+grp1	kidneyR1L1
+grp2	liverR1L2
+rep1	kidneyR1L3
+rep2	kidneyR1L7
